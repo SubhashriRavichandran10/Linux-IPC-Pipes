@@ -140,7 +140,8 @@ exit(EXIT_SUCCESS);
 
 
 
-![Screenshot 2024-04-24 103516](https://github.com/SubhashriRavichandran10/Linux-IPC-Pipes/assets/145743413/6b77699e-4033-403f-a5cb-295bf50031f6)
+![Screenshot 2024-04-24 103516](https://github.com/SubhashriRavichandran10/Linux-IPC-Pipes/assets/145743413/d138c78f-e9a5-4e78-ad11-d61bd8dcc7b3)
+
 
 
 
