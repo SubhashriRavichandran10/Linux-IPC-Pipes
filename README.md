@@ -3,6 +3,8 @@ Linux-IPC-Pipes
 
 
 # Ex03-Linux IPC - Pipes
+# NAME : R.SUBHASHRI
+# REGISTER NO : 212223230219
 
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
@@ -115,7 +117,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
 
-````
+```
 
 #include <unistd.h>
 #include <stdlib.h>
@@ -140,8 +142,8 @@ exit(EXIT_SUCCESS);
 
 
 
-![Screenshot 2024-04-24 103516](https://github.com/SubhashriRavichandran10/Linux-IPC-Pipes/assets/145743413/d138c78f-e9a5-4e78-ad11-d61bd8dcc7b3)
 
+![Screenshot 2024-04-30 230243](https://github.com/SubhashriRavichandran10/Linux-IPC-Pipes/assets/145743413/8a7cd8cf-d0a4-4cd1-8538-e0f89e0dd495)
 
 
 
